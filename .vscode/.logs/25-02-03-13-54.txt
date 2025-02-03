@@ -1,0 +1,20 @@
+25-02-03 13:54 Session started
+----------------------------------------
+14:01:26 Document switched to: c:\Users\robin.timmergard\AppData\Roaming\Code\User\profiles\-3daa4917\settings.json
+----------------------------------------
+14:01:48 044:040 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:04:11 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\.vscode\csharp.code-snippets
+----------------------------------------
+14:07:06 Document switched to: c:\Users\robin.timmergard\AppData\Roaming\Code\User\profiles\-3daa4917\settings.json
+----------------------------------------
+14:07:11 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\.vscode\csharp.code-snippets
+----------------------------------------
