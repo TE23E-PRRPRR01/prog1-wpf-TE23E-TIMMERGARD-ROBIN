@@ -1,0 +1,4 @@
+25-02-10 13:45 Session started
+----------------------------------------
+13:45:56 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\.vscode\Intro\MainWindow.xaml
+----------------------------------------
