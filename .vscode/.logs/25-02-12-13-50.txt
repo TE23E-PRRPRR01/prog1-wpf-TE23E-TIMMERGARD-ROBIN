@@ -1,0 +1,4 @@
+13:50:48 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\.vscode\csharp.code-snippets
+----------------------------------------
+25-02-12 13:50 Session started
+----------------------------------------
