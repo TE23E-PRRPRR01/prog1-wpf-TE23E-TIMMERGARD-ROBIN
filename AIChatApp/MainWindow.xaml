@@ -13,6 +13,6 @@
         <TextBox Name="txbPrompt" Height="100" Margin="10" Padding="10"></TextBox>
         <Button Click="KlickSkicka" Margin="10" Padding="10">Skicka</Button>
         <TextBox Name="txbSvar" Height="300" Margin="10" Padding="10" 
-        IsReadOnly="True" VerticalScrollBarVisibility="Auto" Width="400"></TextBox>
+        IsReadOnly="True" VerticalScrollBarVisibility="Auto" Width="400" TextWrapping="Wrap"></TextBox>
     </StackPanel>
 </Window>
