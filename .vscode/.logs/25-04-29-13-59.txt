@@ -1,0 +1,30 @@
+25-04-29 13:59 Session started
+----------------------------------------
+14:00:57 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\MelkerApp\AssemblyInfo.cs
+----------------------------------------
+14:00:58 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\MelkerApp\MainWindow.xaml
+----------------------------------------
+14:01:13 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\NamnApp\AssemblyInfo.cs
+----------------------------------------
+14:01:14 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\NamnApp\MainWindow.xaml
+----------------------------------------
+
+14:01:48 026:000 > e
+14:01:48 026:001 > ed
+14:01:48 026:002 > ed3
+14:01:48 026:003 > ed32
+14:01:48 026:004 > ed32q
+14:01:48 026:005 > ed32qe
+14:01:48 026:006 > ed32qe3
+14:01:48 026:007 > ed32qe32
+14:01:48 026:008 > ed32qe321
+14:05:59 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------
+14:06:09 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\NamnApp\MainWindow.xaml
+----------------------------------------
+14:06:09 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------
+14:06:14 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\NamnApp\MainWindow.xaml
+----------------------------------------
+14:06:17 Document switched to: extension-output-ms-dotnettools.vscode-dotnet-runtime-#1-.NET Install Tool
+----------------------------------------

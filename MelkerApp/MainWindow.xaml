@@ -1,0 +1,31 @@
+﻿<Window x:Class="MelkerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MelkerApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        SizeToContent="WidthAndHeight">
+        <StackPanel Background="#EEE">
+            <Label Margin="10" FontSize="30">Jämför två tal</Label>
+           
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10" Width="80">Tal 1:</Label>
+                <TextBox Margin="10" Width="150" Name="txbTal1"></TextBox>
+            </StackPanel>
+            
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10" Width="80">Tal 2: </Label>
+                <TextBox Margin="10" Width="150" Name="txbTal2"></TextBox>
+            </StackPanel>   
+            
+            <Button Click="KlickJämför" Margin="10" Width="50" Padding="5">Jämför</Button>
+          
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10" Width="80">Resultat: </Label>
+                <TextBox Margin="10" Width="150" Name="txbResultat"></TextBox>
+            </StackPanel>
+
+        </StackPanel>
+        </Window>

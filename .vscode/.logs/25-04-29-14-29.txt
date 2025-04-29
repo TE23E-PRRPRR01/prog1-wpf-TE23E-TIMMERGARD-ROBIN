@@ -1,0 +1,4 @@
+14:29:35 Document switched to: c:\Users\robin.timmergard\github-classroom\prog1-wpf-TE23E-TIMMERGARD-ROBIN\NamnApp\MainWindow.xaml
+----------------------------------------
+25-04-29 14:29 Session started
+----------------------------------------
